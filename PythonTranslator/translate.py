@@ -1,3 +1,4 @@
+#Note:- this code is to be run only on pycharm
 from tkinter import *
 from tkinter import ttk
 from googletrans import Translator, LANGUAGES
